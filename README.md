@@ -8,4 +8,6 @@ The purpose of this project was to make something with WPF and get better.
 The code is made by myself. The images is downloaded from the web. 
 
 ## How to use the program
-Work in progress...
+1. Open the solution and run the program.
+2. Follow the text on the screen.
+3. Enjoy the game :)
