@@ -9,5 +9,6 @@ The code is made by myself. The images is downloaded from the web.
 
 ## How to use the program
 1. Open the solution and run the program.
-2. Follow the text on the screen.
-3. Enjoy the game :-)
+2. Pick either rock, paper or scissors.
+4. Hope that you win! ;-)
+5. Repeart step 2 and 3.
